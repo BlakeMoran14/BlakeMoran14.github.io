@@ -1,3 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,300&display=swap');
+
 body {
     background-color: black;
+}
+
+.title {
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 50pt;
+    text-align: center;
+    display: flex;
+    align-items: center;
 }
